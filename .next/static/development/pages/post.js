@@ -10041,7 +10041,7 @@ var Page = function Page(props) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!***********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fpost&absolutePagePath=%2FUsers%2Femeeneu%2FM%2FmLab%2Freact-next%2Fhello-next%2Fpages%2Fpost.jsx ***!
   \***********************************************************************************************************************************************/
@@ -10064,5 +10064,5 @@ module.exports = dll_3681e7fd756237ce51c6;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]));;
+},[[1,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=post.js.map
